@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/xq1DRQG/1.jpg",
+      "title": "Exploring the Wonders of Nature",
+      "author_img": "https://i.ibb.co/GMwxmxS/boy1.png",
+      "posted_date": "2023-09-18",
+      "reading_time": 8,
+      "hashtags": ["#NatureExploration", "#Nature", "#Adventure"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/GdydhqX/2.png",
+      "title": "Artificial Intelligence: The Future is Now",
+      "author_img": "https://i.ibb.co/5KMfBpb/boy2.jpg",
+      "posted_date": "2023-09-17",
+      "reading_time": 10,
+      "hashtags": ["#AI", "#Technology", "#Innovation"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/cg8DDCC/3.png",
+      "title": "Healthy Eating Habits for a Longer Life",
+      "author_img": "https://i.ibb.co/hWS6hM8/girl1.jpg",
+      "posted_date": "2023-09-16",
+      "reading_time": 6,
+      "hashtags": ["#HealthyLiving", "#Nutrition", "#Wellness"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/RbPxN7Q/4.jpg",
+      "title": "Space Exploration: Journey to the Stars",
+      "author_img": "https://i.ibb.co/D7ksb7r/girl2.jpg",
+      "posted_date": "2023-09-15",
+      "reading_time": 12,
+      "hashtags": ["#Space", "#Science", "#Exploration"]
+    }
+  ]
+  
